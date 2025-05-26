@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raj Patel</h1>
-<h3 align="center">Full Stack Developer | DevOps Enthusiast | AI Integrator 🚀</h3>
+<h3 align="center">Full Stack Developer | DevOps Enthusiast 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 I'm a passionate **Full Stack Developer** (MERN) currently working at **EvoqTech**.
+- 🧠 I lead the **design, development, and architecture** of multiple key projects within the company.
 - ⚙️ I specialize in building scalable platforms and automating development pipelines.
-- 🤖 I'm also exploring how **AI can integrate with code** to boost developer productivity.
-- 🔧 I’ve worked on advanced **CI/CD pipelines** using **GitHub Actions** and **Docker**.
+- 🔧 I’ve implemented and led the setup of advanced **CI/CD pipelines** using **GitHub Actions** and **Docker**.
+- 🤖 I actively explore how **AI can integrate with development workflows** to boost productivity and innovation.
 
 ---
 
@@ -34,29 +35,29 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Projects I Lead
 
 - **GitGPT**  
-  Full-stack AI tool that connects to your GitHub repos, takes prompts, creates branches, writes code, updates dependencies, and syncs tasks to Jira. Supports multi-language generation (JS, Java, Salesforce, etc.).
+  A full-stack AI assistant for GitHub that I architected and led from idea to deployment. It connects to your repos, understands prompts, creates branches, writes code, updates dependencies, and syncs tasks to Jira. Supports multiple languages including JS, Java, and Salesforce.
 
 - **Salesforce CI/CD Pipeline**  
-  Built a GitHub Actions workflow that automatically reviews pull requests, corrects issues using AI, and creates clean, merge-ready branches for developers.
+  Led the creation of a smart GitHub Actions workflow that automatically reviews PRs, integrates AI for code improvements, and creates clean, merge-ready branches. Built specifically for improving developer velocity on Salesforce-based projects.
 
 - **IntelliAgent**  
-  A complete Human Capital & Service Management platform using the **MERN stack** — built for scalability and real-world enterprise use.
+  Headed the design and development of this enterprise-grade Human Capital & Service Management platform. Built with the **MERN stack**, this platform streamlines task management, workforce operations, and client service flow.
 
 ---
 
 ### 📘 Currently Learning
 
 🛠️ **Platform Engineering**  
-Exploring infrastructure-as-code, observability tools, container orchestration, and developer experience enhancement techniques.
+Diving deeper into infrastructure-as-code, observability tools, scalable system design, and internal developer platforms.
 
 ---
 
 ### 📫 Connect with Me
 
-- 🌐 [LinkedIn](www.linkedin.com/in/raj-patel-149rd)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/raj-patel-149rd)
 - 📧 rdpatel11124@gmail.com  
 
 ---
